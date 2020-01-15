@@ -1,0 +1,38 @@
+body {
+    background-color: azure;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    clear: both;
+}
+
+.navi{
+    background-color: cadetblue;
+    display: flex;
+}
+
+.navi h1{
+    padding: 0 20px;
+    line-height: 1.5em;
+}
+
+.navi ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-1 a {
+    margin: 1em;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-1 a:hover{
+    color: white;
+    background-color: silver;
+}
