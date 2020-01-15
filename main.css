@@ -36,3 +36,13 @@ body {
     color: white;
     background-color: silver;
 }
+
+footer {
+    width: 100%;
+    color: steelblue;
+    background-color: tan;
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
