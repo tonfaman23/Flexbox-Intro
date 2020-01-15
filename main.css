@@ -58,3 +58,15 @@ footer {
     height: 250px;
     margin: 50px;
 }
+
+.kittens{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.kittens img{
+    width: 150px;
+    height: 100px;
+    margin: 50px;
+}
